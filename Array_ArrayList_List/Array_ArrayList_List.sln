@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35707.178
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Array", "Array\Array.csproj", "{9666D8F6-60E3-4890-BE28-E7982C0D5BAE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArrayList", "ArrayList\ArrayList.csproj", "{F2B82263-1EB0-4073-B80C-1665C7CD046C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "List", "List\List.csproj", "{BBAEF992-CEDB-4488-A8EA-80FBE6E99E9C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9666D8F6-60E3-4890-BE28-E7982C0D5BAE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9666D8F6-60E3-4890-BE28-E7982C0D5BAE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9666D8F6-60E3-4890-BE28-E7982C0D5BAE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9666D8F6-60E3-4890-BE28-E7982C0D5BAE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F2B82263-1EB0-4073-B80C-1665C7CD046C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F2B82263-1EB0-4073-B80C-1665C7CD046C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F2B82263-1EB0-4073-B80C-1665C7CD046C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F2B82263-1EB0-4073-B80C-1665C7CD046C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BBAEF992-CEDB-4488-A8EA-80FBE6E99E9C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BBAEF992-CEDB-4488-A8EA-80FBE6E99E9C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BBAEF992-CEDB-4488-A8EA-80FBE6E99E9C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BBAEF992-CEDB-4488-A8EA-80FBE6E99E9C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

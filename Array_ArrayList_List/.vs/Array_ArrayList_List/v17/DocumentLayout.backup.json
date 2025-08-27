@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\0201392421008\\Desktop\\Array_ArrayList_List\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BBAEF992-CEDB-4488-A8EA-80FBE6E99E9C}|List\\List.csproj|c:\\users\\0201392421008\\desktop\\array_arraylist_list\\list\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBAEF992-CEDB-4488-A8EA-80FBE6E99E9C}|List\\List.csproj|solutionrelative:list\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2B82263-1EB0-4073-B80C-1665C7CD046C}|ArrayList\\ArrayList.csproj|c:\\users\\0201392421008\\desktop\\array_arraylist_list\\arraylist\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2B82263-1EB0-4073-B80C-1665C7CD046C}|ArrayList\\ArrayList.csproj|solutionrelative:arraylist\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9666D8F6-60E3-4890-BE28-E7982C0D5BAE}|Array\\Array.csproj|c:\\users\\0201392421008\\desktop\\array_arraylist_list\\array\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9666D8F6-60E3-4890-BE28-E7982C0D5BAE}|Array\\Array.csproj|solutionrelative:array\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\0201392421008\\Desktop\\Array_ArrayList_List\\List\\Program.cs",
+              "RelativeDocumentMoniker": "List\\Program.cs",
+              "ToolTip": "C:\\Users\\0201392421008\\Desktop\\Array_ArrayList_List\\List\\Program.cs*",
+              "RelativeToolTip": "List\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACsAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-18T12:57:07.172Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\0201392421008\\Desktop\\Array_ArrayList_List\\ArrayList\\Program.cs",
+              "RelativeDocumentMoniker": "ArrayList\\Program.cs",
+              "ToolTip": "C:\\Users\\0201392421008\\Desktop\\Array_ArrayList_List\\ArrayList\\Program.cs",
+              "RelativeToolTip": "ArrayList\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-18T11:51:31.077Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\0201392421008\\Desktop\\Array_ArrayList_List\\Array\\Program.cs",
+              "RelativeDocumentMoniker": "Array\\Program.cs",
+              "ToolTip": "C:\\Users\\0201392421008\\Desktop\\Array_ArrayList_List\\Array\\Program.cs",
+              "RelativeToolTip": "Array\\Program.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAAD0AAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-18T11:03:57.29Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

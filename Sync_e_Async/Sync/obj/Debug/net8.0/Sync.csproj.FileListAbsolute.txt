@@ -1,0 +1,14 @@
+C:\Users\0201392421008\Desktop\Sync_e_Async\Sync\bin\Debug\net8.0\Sync.exe
+C:\Users\0201392421008\Desktop\Sync_e_Async\Sync\bin\Debug\net8.0\Sync.deps.json
+C:\Users\0201392421008\Desktop\Sync_e_Async\Sync\bin\Debug\net8.0\Sync.runtimeconfig.json
+C:\Users\0201392421008\Desktop\Sync_e_Async\Sync\bin\Debug\net8.0\Sync.dll
+C:\Users\0201392421008\Desktop\Sync_e_Async\Sync\bin\Debug\net8.0\Sync.pdb
+C:\Users\0201392421008\Desktop\Sync_e_Async\Sync\obj\Debug\net8.0\Sync.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\0201392421008\Desktop\Sync_e_Async\Sync\obj\Debug\net8.0\Sync.AssemblyInfoInputs.cache
+C:\Users\0201392421008\Desktop\Sync_e_Async\Sync\obj\Debug\net8.0\Sync.AssemblyInfo.cs
+C:\Users\0201392421008\Desktop\Sync_e_Async\Sync\obj\Debug\net8.0\Sync.csproj.CoreCompileInputs.cache
+C:\Users\0201392421008\Desktop\Sync_e_Async\Sync\obj\Debug\net8.0\Sync.dll
+C:\Users\0201392421008\Desktop\Sync_e_Async\Sync\obj\Debug\net8.0\refint\Sync.dll
+C:\Users\0201392421008\Desktop\Sync_e_Async\Sync\obj\Debug\net8.0\Sync.pdb
+C:\Users\0201392421008\Desktop\Sync_e_Async\Sync\obj\Debug\net8.0\Sync.genruntimeconfig.cache
+C:\Users\0201392421008\Desktop\Sync_e_Async\Sync\obj\Debug\net8.0\ref\Sync.dll

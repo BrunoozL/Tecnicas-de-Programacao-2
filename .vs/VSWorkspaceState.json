@@ -1,8 +1,14 @@
 {
   "ExpandedNodes": [
     "",
+    "\\OrientacaoAObjeto",
+    "\\OrientacaoAObjeto\\OrientacaoAObjeto",
+    "\\RelacionamentoEntreClasses",
+    "\\RelacionamentoEntreClasses\\ComposicaoDois",
+    "\\RelacionamentoEntreClasses\\ComposicaoUm",
+    "\\Sync_e_Async",
     "\\Sync_e_Async\\Async"
   ],
-  "SelectedNode": "\\Sync_e_Async",
+  "SelectedNode": "\\RelacionamentoEntreClasses\\ComposicaoDois\\Program.cs",
   "PreviewInSolutionExplorer": false
 }

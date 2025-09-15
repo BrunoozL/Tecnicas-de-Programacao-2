@@ -3,8 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\0201392421008\\Desktop\\Tecnicas-de-Programacao-2\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\0201392421008\\Desktop\\Tecnicas-de-Programacao-2\\RelacionamentoEntreClasses\\ComposicaoDois\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:RelacionamentoEntreClasses\\ComposicaoDois\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\0201392421008\\Desktop\\Tecnicas-de-Programacao-2\\RelacionamentoEntreClasses\\ComposicaoUm\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:RelacionamentoEntreClasses\\ComposicaoUm\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\0201392421008\\Desktop\\Tecnicas-de-Programacao-2\\OrientacaoAObjeto\\OrientacaoAObjeto\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:OrientacaoAObjeto\\OrientacaoAObjeto\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\0201392421008\\Desktop\\Tecnicas-de-Programacao-2\\Sync_e_Async\\Async\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Sync_e_Async\\Async\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\0201392421008\\Desktop\\Tecnicas-de-Programacao-2\\RelacionamentoEntreClasses\\Heranca\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:RelacionamentoEntreClasses\\Heranca\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,11 +30,63 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\0201392421008\\Desktop\\Tecnicas-de-Programacao-2\\OrientacaoAObjeto\\OrientacaoAObjeto\\Program.cs",
+              "RelativeDocumentMoniker": "OrientacaoAObjeto\\OrientacaoAObjeto\\Program.cs",
+              "ToolTip": "C:\\Users\\0201392421008\\Desktop\\Tecnicas-de-Programacao-2\\OrientacaoAObjeto\\OrientacaoAObjeto\\Program.cs",
+              "RelativeToolTip": "OrientacaoAObjeto\\OrientacaoAObjeto\\Program.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-15T12:09:23.449Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\0201392421008\\Desktop\\Tecnicas-de-Programacao-2\\RelacionamentoEntreClasses\\Heranca\\Program.cs",
+              "RelativeDocumentMoniker": "RelacionamentoEntreClasses\\Heranca\\Program.cs",
+              "ToolTip": "C:\\Users\\0201392421008\\Desktop\\Tecnicas-de-Programacao-2\\RelacionamentoEntreClasses\\Heranca\\Program.cs",
+              "RelativeToolTip": "RelacionamentoEntreClasses\\Heranca\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-15T12:04:57.498Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\0201392421008\\Desktop\\Tecnicas-de-Programacao-2\\RelacionamentoEntreClasses\\ComposicaoUm\\Program.cs",
+              "RelativeDocumentMoniker": "RelacionamentoEntreClasses\\ComposicaoUm\\Program.cs",
+              "ToolTip": "C:\\Users\\0201392421008\\Desktop\\Tecnicas-de-Programacao-2\\RelacionamentoEntreClasses\\ComposicaoUm\\Program.cs",
+              "RelativeToolTip": "RelacionamentoEntreClasses\\ComposicaoUm\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAoAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-15T11:54:45.303Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\0201392421008\\Desktop\\Tecnicas-de-Programacao-2\\RelacionamentoEntreClasses\\ComposicaoDois\\Program.cs",
+              "RelativeDocumentMoniker": "RelacionamentoEntreClasses\\ComposicaoDois\\Program.cs",
+              "ToolTip": "C:\\Users\\0201392421008\\Desktop\\Tecnicas-de-Programacao-2\\RelacionamentoEntreClasses\\ComposicaoDois\\Program.cs",
+              "RelativeToolTip": "RelacionamentoEntreClasses\\ComposicaoDois\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAcAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-15T11:54:41.875Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\0201392421008\\Desktop\\Tecnicas-de-Programacao-2\\Sync_e_Async\\Async\\Program.cs",
               "RelativeDocumentMoniker": "Sync_e_Async\\Async\\Program.cs",

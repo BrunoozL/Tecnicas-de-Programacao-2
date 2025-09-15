@@ -1,0 +1,84 @@
+## Build results
+[Bb]in/
+[Oo]bj/
+[Ll]og/
+*.log
+
+## Rider
+.idea/
+
+## VS Code
+.vscode/
+
+## Visual Studio
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+*.VC.db
+
+## Build cache
+*.build.cs
+*.cache
+*.dbmdl
+*.pdb
+*.mdb
+*.bak
+*.orig
+
+## NuGet
+*.nupkg
+*.snupkg
+*.nuspec
+project.lock.json
+project.fragment.lock.json
+artifacts/
+packages/
+*.psmdcp
+
+## ASP.NET / Console
+*.Publish.xml
+*.pubxml
+*.publishproj
+
+## Test results
+TestResults/
+*.trx
+*.coverage
+*.coveragexml
+*.testresults
+
+## ReSharper
+_ReSharper*/
+*.DotSettings.user
+
+## Rider (JetBrains)
+.idea/
+*.sln.iml
+
+## Temporary files
+*.tmp
+*.temp
+*.svclog
+
+## OS-specific
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Linux
+*~
+
+## Dotnet-specific
+global.json
+project.assets.json
+
+## Local secrets (user-specific config)
+secrets.json

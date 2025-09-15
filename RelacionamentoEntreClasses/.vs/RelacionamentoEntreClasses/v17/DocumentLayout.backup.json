@@ -1,0 +1,118 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\0201392421008\\Desktop\\RelacionamentoEntreClasses\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{95CAF5B8-BEB4-4534-8910-E77F5C427EC9}|Associativa\\Associativa.csproj|c:\\users\\0201392421008\\desktop\\relacionamentoentreclasses\\associativa\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95CAF5B8-BEB4-4534-8910-E77F5C427EC9}|Associativa\\Associativa.csproj|solutionrelative:associativa\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B954C44C-BFBD-4450-9915-B324AB080D94}|ComposicaoDois\\ComposicaoDois.csproj|c:\\users\\0201392421008\\desktop\\relacionamentoentreclasses\\composicaodois\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B954C44C-BFBD-4450-9915-B324AB080D94}|ComposicaoDois\\ComposicaoDois.csproj|solutionrelative:composicaodois\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA231CD2-2667-4BCB-BDA6-6B7E67E97BEA}|ComposicaoUm\\ComposicaoUm.csproj|c:\\users\\0201392421008\\desktop\\relacionamentoentreclasses\\composicaoum\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA231CD2-2667-4BCB-BDA6-6B7E67E97BEA}|ComposicaoUm\\ComposicaoUm.csproj|solutionrelative:composicaoum\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BAE1D1C7-54E7-4A8D-B425-4332EF8E3771}|Agregacao\\Agregacao.csproj|c:\\users\\0201392421008\\desktop\\relacionamentoentreclasses\\agregacao\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BAE1D1C7-54E7-4A8D-B425-4332EF8E3771}|Agregacao\\Agregacao.csproj|solutionrelative:agregacao\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E6E24E4-F5EC-4963-A30A-73CA1970424E}|AssosiacaoBilateral\\AssosiacaoBilateral.csproj|c:\\users\\0201392421008\\desktop\\relacionamentoentreclasses\\assosiacaobilateral\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E6E24E4-F5EC-4963-A30A-73CA1970424E}|AssosiacaoBilateral\\AssosiacaoBilateral.csproj|solutionrelative:assosiacaobilateral\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51433F5F-BDDF-4A7D-AF7A-01D514B96698}|Heranca\\Heranca.csproj|c:\\users\\0201392421008\\desktop\\relacionamentoentreclasses\\heranca\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51433F5F-BDDF-4A7D-AF7A-01D514B96698}|Heranca\\Heranca.csproj|solutionrelative:heranca\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\0201392421008\\Desktop\\RelacionamentoEntreClasses\\Associativa\\Program.cs",
+              "RelativeDocumentMoniker": "Associativa\\Program.cs",
+              "ToolTip": "C:\\Users\\0201392421008\\Desktop\\RelacionamentoEntreClasses\\Associativa\\Program.cs",
+              "RelativeToolTip": "Associativa\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-15T11:20:41.059Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\0201392421008\\Desktop\\RelacionamentoEntreClasses\\ComposicaoDois\\Program.cs",
+              "RelativeDocumentMoniker": "ComposicaoDois\\Program.cs",
+              "ToolTip": "C:\\Users\\0201392421008\\Desktop\\RelacionamentoEntreClasses\\ComposicaoDois\\Program.cs",
+              "RelativeToolTip": "ComposicaoDois\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-08T13:56:18.12Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\0201392421008\\Desktop\\RelacionamentoEntreClasses\\ComposicaoUm\\Program.cs",
+              "RelativeDocumentMoniker": "ComposicaoUm\\Program.cs",
+              "ToolTip": "C:\\Users\\0201392421008\\Desktop\\RelacionamentoEntreClasses\\ComposicaoUm\\Program.cs",
+              "RelativeToolTip": "ComposicaoUm\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-08T13:42:24.985Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\0201392421008\\Desktop\\RelacionamentoEntreClasses\\Agregacao\\Program.cs",
+              "RelativeDocumentMoniker": "Agregacao\\Program.cs",
+              "ToolTip": "C:\\Users\\0201392421008\\Desktop\\RelacionamentoEntreClasses\\Agregacao\\Program.cs",
+              "RelativeToolTip": "Agregacao\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-08T13:41:51.108Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\0201392421008\\Desktop\\RelacionamentoEntreClasses\\AssosiacaoBilateral\\Program.cs",
+              "RelativeDocumentMoniker": "AssosiacaoBilateral\\Program.cs",
+              "ToolTip": "C:\\Users\\0201392421008\\Desktop\\RelacionamentoEntreClasses\\AssosiacaoBilateral\\Program.cs",
+              "RelativeToolTip": "AssosiacaoBilateral\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAEYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-08T12:04:21.507Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\0201392421008\\Desktop\\RelacionamentoEntreClasses\\Heranca\\Program.cs",
+              "RelativeDocumentMoniker": "Heranca\\Program.cs",
+              "ToolTip": "C:\\Users\\0201392421008\\Desktop\\RelacionamentoEntreClasses\\Heranca\\Program.cs",
+              "RelativeToolTip": "Heranca\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-08T11:22:46.51Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

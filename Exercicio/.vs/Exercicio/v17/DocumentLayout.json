@@ -1,26 +1,26 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\0201392421008\\Desktop\\Exercicio\\",
+  "WorkspaceRootPath": "C:\\Users\\0201392421008\\Desktop\\Tecnicas-de-Programacao-2\\Exercicio\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{AF5406C8-DC95-4E75-BC2C-B0E616759657}|Exercicio\\Exercicio.csproj|c:\\users\\0201392421008\\desktop\\exercicio\\exercicio\\fabrica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AF5406C8-DC95-4E75-BC2C-B0E616759657}|Exercicio\\Exercicio.csproj|solutionrelative:exercicio\\fabrica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AF5406C8-DC95-4E75-BC2C-B0E616759657}|Exercicio\\Exercicio.csproj|c:\\users\\0201392421008\\desktop\\exercicio\\exercicio\\operador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AF5406C8-DC95-4E75-BC2C-B0E616759657}|Exercicio\\Exercicio.csproj|solutionrelative:exercicio\\operador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AF5406C8-DC95-4E75-BC2C-B0E616759657}|Exercicio\\Exercicio.csproj|c:\\users\\0201392421008\\desktop\\exercicio\\exercicio\\maquina.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{AF5406C8-DC95-4E75-BC2C-B0E616759657}|Exercicio\\Exercicio.csproj|c:\\users\\0201392421008\\desktop\\tecnicas-de-programacao-2\\exercicio\\exercicio\\maquina.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AF5406C8-DC95-4E75-BC2C-B0E616759657}|Exercicio\\Exercicio.csproj|solutionrelative:exercicio\\maquina.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AF5406C8-DC95-4E75-BC2C-B0E616759657}|Exercicio\\Exercicio.csproj|c:\\users\\0201392421008\\desktop\\exercicio\\exercicio\\equipamento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AF5406C8-DC95-4E75-BC2C-B0E616759657}|Exercicio\\Exercicio.csproj|solutionrelative:exercicio\\equipamento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{AF5406C8-DC95-4E75-BC2C-B0E616759657}|Exercicio\\Exercicio.csproj|c:\\users\\0201392421008\\desktop\\tecnicas-de-programacao-2\\exercicio\\exercicio\\operador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF5406C8-DC95-4E75-BC2C-B0E616759657}|Exercicio\\Exercicio.csproj|solutionrelative:exercicio\\operador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AF5406C8-DC95-4E75-BC2C-B0E616759657}|Exercicio\\Exercicio.csproj|c:\\users\\0201392421008\\desktop\\exercicio\\exercicio\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{AF5406C8-DC95-4E75-BC2C-B0E616759657}|Exercicio\\Exercicio.csproj|c:\\users\\0201392421008\\desktop\\tecnicas-de-programacao-2\\exercicio\\exercicio\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AF5406C8-DC95-4E75-BC2C-B0E616759657}|Exercicio\\Exercicio.csproj|solutionrelative:exercicio\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF5406C8-DC95-4E75-BC2C-B0E616759657}|Exercicio\\Exercicio.csproj|c:\\users\\0201392421008\\desktop\\tecnicas-de-programacao-2\\exercicio\\exercicio\\fabrica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF5406C8-DC95-4E75-BC2C-B0E616759657}|Exercicio\\Exercicio.csproj|solutionrelative:exercicio\\fabrica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF5406C8-DC95-4E75-BC2C-B0E616759657}|Exercicio\\Exercicio.csproj|c:\\users\\0201392421008\\desktop\\tecnicas-de-programacao-2\\exercicio\\exercicio\\equipamento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF5406C8-DC95-4E75-BC2C-B0E616759657}|Exercicio\\Exercicio.csproj|solutionrelative:exercicio\\equipamento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,41 +30,41 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Operador.cs",
-              "DocumentMoniker": "C:\\Users\\0201392421008\\Desktop\\Exercicio\\Exercicio\\Operador.cs",
+              "DocumentMoniker": "C:\\Users\\0201392421008\\Desktop\\Tecnicas-de-Programacao-2\\Exercicio\\Exercicio\\Operador.cs",
               "RelativeDocumentMoniker": "Exercicio\\Operador.cs",
-              "ToolTip": "C:\\Users\\0201392421008\\Desktop\\Exercicio\\Exercicio\\Operador.cs",
+              "ToolTip": "C:\\Users\\0201392421008\\Desktop\\Tecnicas-de-Programacao-2\\Exercicio\\Exercicio\\Operador.cs",
               "RelativeToolTip": "Exercicio\\Operador.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAAwBUAAABKAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAABWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-15T12:56:44.373Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "Maquina.cs",
-              "DocumentMoniker": "C:\\Users\\0201392421008\\Desktop\\Exercicio\\Exercicio\\Maquina.cs",
+              "DocumentMoniker": "C:\\Users\\0201392421008\\Desktop\\Tecnicas-de-Programacao-2\\Exercicio\\Exercicio\\Maquina.cs",
               "RelativeDocumentMoniker": "Exercicio\\Maquina.cs",
-              "ToolTip": "C:\\Users\\0201392421008\\Desktop\\Exercicio\\Exercicio\\Maquina.cs",
+              "ToolTip": "C:\\Users\\0201392421008\\Desktop\\Tecnicas-de-Programacao-2\\Exercicio\\Exercicio\\Maquina.cs",
               "RelativeToolTip": "Exercicio\\Maquina.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAA1wBkAAAA5AAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-15T12:05:24.391Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Equipamento.cs",
-              "DocumentMoniker": "C:\\Users\\0201392421008\\Desktop\\Exercicio\\Exercicio\\Equipamento.cs",
+              "DocumentMoniker": "C:\\Users\\0201392421008\\Desktop\\Tecnicas-de-Programacao-2\\Exercicio\\Exercicio\\Equipamento.cs",
               "RelativeDocumentMoniker": "Exercicio\\Equipamento.cs",
-              "ToolTip": "C:\\Users\\0201392421008\\Desktop\\Exercicio\\Exercicio\\Equipamento.cs",
+              "ToolTip": "C:\\Users\\0201392421008\\Desktop\\Tecnicas-de-Programacao-2\\Exercicio\\Exercicio\\Equipamento.cs",
               "RelativeToolTip": "Exercicio\\Equipamento.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAABAAAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -73,26 +73,26 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "Fabrica.cs",
-              "DocumentMoniker": "C:\\Users\\0201392421008\\Desktop\\Exercicio\\Exercicio\\Fabrica.cs",
+              "DocumentMoniker": "C:\\Users\\0201392421008\\Desktop\\Tecnicas-de-Programacao-2\\Exercicio\\Exercicio\\Fabrica.cs",
               "RelativeDocumentMoniker": "Exercicio\\Fabrica.cs",
-              "ToolTip": "C:\\Users\\0201392421008\\Desktop\\Exercicio\\Exercicio\\Fabrica.cs",
+              "ToolTip": "C:\\Users\\0201392421008\\Desktop\\Tecnicas-de-Programacao-2\\Exercicio\\Exercicio\\Fabrica.cs",
               "RelativeToolTip": "Exercicio\\Fabrica.cs",
-              "ViewState": "AgIAAA4AAAAAAAAAAAAwwBAAAACGAAAAAAAAAA==",
+              "ViewState": "AgIAAAoAAAAAAAAAAAA1wBcAAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-15T11:52:58.087Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\0201392421008\\Desktop\\Exercicio\\Exercicio\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\0201392421008\\Desktop\\Tecnicas-de-Programacao-2\\Exercicio\\Exercicio\\Program.cs",
               "RelativeDocumentMoniker": "Exercicio\\Program.cs",
-              "ToolTip": "C:\\Users\\0201392421008\\Desktop\\Exercicio\\Exercicio\\Program.cs",
+              "ToolTip": "C:\\Users\\0201392421008\\Desktop\\Tecnicas-de-Programacao-2\\Exercicio\\Exercicio\\Program.cs",
               "RelativeToolTip": "Exercicio\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-15T11:46:27.269Z",
               "EditorCaption": ""

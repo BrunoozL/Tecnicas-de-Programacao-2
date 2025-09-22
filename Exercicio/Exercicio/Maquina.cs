@@ -11,7 +11,7 @@ namespace Exercicio
         public string? Modelo { get; set; }
         public string? HoraOperacao { get; set; }
 
-        private Guid numeroSerie;
+        private Guid numeroSerie = Guid.NewGuid();
         public Guid? NumeroSerie
         {
             get { return numeroSerie; } 
